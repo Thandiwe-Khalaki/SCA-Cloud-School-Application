@@ -29,4 +29,4 @@ This script is required to:
 * Have documentation. 
 
 ## License 
-Install.py is intended for the use of SCa cloud enginnering bootcamp application.
+Install.py is intended for the use of SCA cloud enginnering bootcamp application.
