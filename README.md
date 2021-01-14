@@ -27,3 +27,6 @@ This script is required to:
 * Do the above using any scripting language such as Nodejs,shell,Python etc.
 
 * Have documentation. 
+
+## License 
+Install.py is intended for the use of SCa cloud enginnering bootcamp application.
